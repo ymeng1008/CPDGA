@@ -4,7 +4,7 @@ CPDGA，基于情报繁殖的DGA域名主动检测算法，可以主动预测未
 2. 评估了CPDGA对对抗性恶意域名的检测能力。CPDGA对当前最先进的敌对DGAs（包括DeepDGA、CharBot、Khaos和ReplaceDGA）具有100％的准确性。
 
 
-DGA—_Malware_Domains_process.py：DGA域名预处理，特征提取归一化
+DGA_Malware_Domains_process.py：DGA域名预处理，特征提取归一化
 
 Conformal_Clustering.py: CPDGA算法整体流程
 
